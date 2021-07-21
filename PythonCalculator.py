@@ -1,6 +1,4 @@
-# This code was originally made by user mentos1386 @ http://code.runnable.com/UzMVYY9BxuQgTLiK/basic-python-calculator-for-simple-and-beginner
-#
-#My first program in Python. Im still learning this programing language.
+
 
 running = True 
 
